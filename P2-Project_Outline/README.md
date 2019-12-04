@@ -21,6 +21,7 @@ kennymaness.com is the offical hub for Kenny Maness and his music. Fans can crea
 - Java
 - Springboot
 - MySQL
+- Thymeleaf
 
 ### What I'll Have to Learn
 - Uploading files to a form
