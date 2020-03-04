@@ -7,27 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-kennymaness.com is the offical hub for Kenny Maness and his music. Fans can create their own accounts and interact with each other, check his show dates, read Kenny's exclusive blog and see his social media posts, and get insider content only available to his fans.
+kennymaness.com is the offical hub for Kenny Maness and his music. Fans can create their own accounts and interact with each other, check his show dates, read Kenny's personal blog and see his social media posts, and get insider content only available to his fans. Additionally, fans can create their own account to get access to exclusive content, participate in 
 
 ### Features
 
-- User Login
-- Search Functionality
-- Fan Forum
+- User Login w/ Spring Security
 - Main Page w/ links & widgets
 - Artist Blog w/ file upload
+- Comments & Likes
 
 ### Technologies
 - Java
-- Springboot
+- Spring Boot/Security
 - MySQL
 - Thymeleaf
+- Javascript/CSS
 
 ### What I'll Have to Learn
 - Uploading files to a form
 - Embedding widgets from other websites like Spotify & Twitter
 - Blog post replies & forum setup
-- Interactive main page
+- Session implementation for logging in/out
 
 ### Project Tracker
-https://trello.com/b/reXOz28q/kennymanesscom
+https://trello.com/b/reXOz28q/kennymaness
